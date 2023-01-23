@@ -1,0 +1,1 @@
+C'est stylé Clash of Clan non ?? Et bah go faire un clone de ça mais en web app, ça pourrait être stylé :o
