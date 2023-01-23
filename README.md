@@ -1,1 +1,7 @@
-C'est stylé Clash of Clan non ?? Et bah go faire un clone de ça mais en web app, ça pourrait être stylé :o
+Feature déjà dév : 
+
+Feature en dev : le gripPattern à l'aide d'une tile map
+
+Avancement de la feature :
+
+Avancement du projet : 
